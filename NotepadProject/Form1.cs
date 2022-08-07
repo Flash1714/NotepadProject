@@ -43,6 +43,8 @@ namespace NotepadProject
             textTitle.Clear();
             textMessage.Clear();
 
+            //Want to add ability to save files permanently when save button is clicked 
+
         }
 
         private void bttRead_Click(object sender, EventArgs e)
