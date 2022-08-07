@@ -2,7 +2,6 @@ namespace NotepadProject
 {
     public partial class NotepadProject : Form
     {
-        //Added a new comment to test out git
         System.Data.DataTable table;
         public NotepadProject()
         {
