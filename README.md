@@ -1,12 +1,9 @@
 # NotepadProject
 
-Here's me starting my C# Journey. 
+## Not my fault if your laptop dies when tikering with this code.
 
-Building a basic notepad which can save and load notes.
+Starting to use C# and git :D
 
-Also learning github and git as I go along. 
-
-Let's see how this goes.
+Building a basic notepad which can save and load notes (Only while the app runs (Volatile memory)).
 
 
-To use the application either run the code in VS in debug mode or compile the application in release mode and navigate to the project folder -> NotepadProject -> bin -> release -> NotepadProject.exe 
