@@ -64,6 +64,10 @@ namespace NotepadProject
             {
                 table.Rows[index].Delete();
             }
+            else
+            {
+                //Do nothing
+            }
         }
     }
 }
